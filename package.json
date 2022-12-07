@@ -1,4 +1,5 @@
 {
+	"discription":"A project for freecode.org",
 	"author": "Nathan Seneshaw",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
